@@ -26,3 +26,7 @@ The project aims to design and implement a dynamic Power BI report for telecome 
 - Step 7 : Drag and drop visualizations from the Visualizations pane onto the canvas to create the initial layout of the dashboard. 
 - Step 8 : Arrange the visualizations and organize them into logical groups or sections to facilitate user understanding and navigation.
 - Step 9 : Customize the appearance of visualizations by adjusting formatting options, colors, labels, and titles.
+
+  # Report Snapshot (Power BI DESKTOP)
+
+![Report snapshot](https://github.com/Archie1824/Call-Center-Analysis/assets/153003088/56bf9ca5-edb8-4b69-974b-286783246b4c)
