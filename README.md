@@ -2,7 +2,7 @@
 
 ## Problem Statement
 
-The project aims to design and implement a dynamic Power BI report for telecome company, enabling them to efficiently monitor and analyze key performance indicators (KPIs) and metrics related to customer service operations. The report will provide actionable insights to optimize operational efficiency, enhance customer satisfaction, and improve agent performance.
+The project aims to design and implement a dynamic Power BI report for telecom company, enabling them to efficiently monitor and analyze key performance indicators (KPIs) and metrics related to customer service operations. The report will provide actionable insights to optimize operational efficiency, enhance customer satisfaction, and improve agent performance.
 
 ### Steps followed 
 
